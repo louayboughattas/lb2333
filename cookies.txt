@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.epsilonitservice.com	TRUE	/woo/	FALSE	1999999999	yith_wcwl_session_635a8d86e8695495fc4b6389d593d5d9	%7B%22session_id%22%3A%228121aa05e54657389f13483447a283a2%22%2C%22session_expiration%22%3A1632533353%2C%22session_expiring%22%3A1632529753%2C%22cookie_hash%22%3A%223449399eb0a05438a4627774a7086f36%22%7D
+.epsilonitservice.com	TRUE	/woo/	FALSE	1999999999	woocommerce_recently_viewed	96
+.epsilonitservice.com	TRUE	/woo/	FALSE	1999999999	woocommerce_items_in_cart	1
+.epsilonitservice.com	TRUE	/woo/	FALSE	1999999999	woocommerce_cart_hash	0aa11081efc465938de641a456ac5b1c
+.epsilonitservice.com	TRUE	/woo/	FALSE	1999999999	wp_woocommerce_session_635a8d86e8695495fc4b6389d593d5d9	8dc052eff98e872bef94bbfec4035bda%7C%7C1630114152%7C%7C1630110552%7C%7C2851755e9b4a474e0bfb513ecf195d5d
+
